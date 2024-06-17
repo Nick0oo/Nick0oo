@@ -10,13 +10,12 @@
 
 
 <pre>
-💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
-📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence & Deep Learning
-📝 I have a strong interest in building Frontend Uis for ML applications
-🔭 Working on Shopify Themes and React websites using Gatsby.js
-🌱 Focusing on Learning about customer needs and making their lives easier
-🌟 Main languages: Javascript, Python
-🚩 Interested in Full Stack Machine Learning Application development
+💻 Web Developer passionate about new technologies! 
+📚 Systems Engineering Student with a Bachelor's degree in Computer Science and a Master's degree in Artificial Intelligence and Deep Learning.
+📝 Expert in creating frontend user interfaces for web and mobile applications using both code (JavaScript, HTML, CSS) and no-code platforms.
+🔭 Focused on understanding client needs and creating solutions that simplify their lives.  
+🌱 Passionate about full-stack web development and data science.
+🌟 Main languages: JavaScript, Node.js.
 </pre>
 
 

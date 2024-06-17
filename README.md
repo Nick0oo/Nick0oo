@@ -5,7 +5,7 @@
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
 		<img src="https://readme-typing-svg.herokuapp.com/?
-			lines=Web+Developer;Full+Stack;JavaScript%20|%20TypeScript%20|%20CSS%20Preprocessor;Accessibility+First;Performance+Optimization;Continuous+Learner;center=true&width=380&height=45
+		lines=Web+Developer;Full+Stack;JavaScript%20|%20TypeScript%20|%20CSS%20Preprocessor;Accessibility+First;Performance+Optimization;Continuous+Learner;center=true&width=380&height=45
 
 	</a>
 </p>

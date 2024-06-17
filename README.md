@@ -23,10 +23,10 @@
   <h3><b>Let's get in touch! </b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/stefanos-stamoulis/" target="_blank">
+<a href="https://www.linkedin.com/in/nicolas-salas-0471361b3/" target="_blank">
   <img align="center" alt="Stefanos Stamoulis | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/steve.frontdev/" target="_blank">
+<a href="https://www.instagram.com/nico__salas/" target="_blank">
   <img align="center" alt="Stefanos Stamoulis | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
 

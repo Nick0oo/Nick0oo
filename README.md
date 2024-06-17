@@ -1,8 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    <!-- BANDERA -->
-![ Banner ] ( https://github.com/marowarth/marowarth/blob/main/banner.png )
+   
 < br />
     Hola! Soy Nicko <b></b>.
     <br>Estudiante de Ingenieria de Sistemas Amante de el Desarrollo web<br>

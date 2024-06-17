@@ -3,11 +3,11 @@
 <a target="_blank" href="https://www.stefanosst.gr"><img src="https://i.pinimg.com/originals/42/1c/8b/421c8b9bbaf3c663903a1ac53e7add13.gif"/></a>
 
 <p align="center">
-<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify+Expert;Frontend+Developer;React%20|%20Gatsby%20|%20Next+Enthusiast;DL%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
-	</a>
-
+  <a href="https://github.com/Bouaskaoun">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Code+NoCode;JavaScript%20|%20HTML%20|%20CSS;Building+Accessible+UIs;Enhancing+User+Experience;Continuous+Learner;center=true&width=380&height=45">
+  </a>
 </p>
+
 
 <pre>
 💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies

@@ -4,14 +4,14 @@
 
 <p align="center">
   <a href="https://github.com/Bouaskaoun">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer%20|%20Code%20|%20NoCode;JavaScript%20|%20HTML%20|%20CSS;20∞&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer%20|%20Code%20|%20NoCode;JavaScript%20|%20HTML%20|%20CSS;&height=45">
   </a>
 </p>
 
 
 <pre>
 💻 Web Developer passionate about new technologies! 
-📚 Systems Engineering Student with a Bachelor's degree in Computer Science and a Master's degree in Artificial Intelligence and Deep Learning.
+📚 Systems engineer student
 📝 frontend user interfaces for web applications using both code (JavaScript, HTML, CSS) and no-code platforms.
 🔭 Focused on understanding client needs and creating solutions that simplify their lives.  
 🌱 Passionate about full-stack web development and data science.

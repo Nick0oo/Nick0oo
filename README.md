@@ -1,8 +1,11 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
-    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
+    <!-- BANDERA -->
+![ Banner ] ( https://github.com/marowarth/marowarth/blob/main/banner.png )
+< br />
+    Hola! Soy Nicko <b></b>.
+    <br>Estudiante de Ingenieria de Sistemas Amante de el Desarrollo web<br>
 
 </samp>
 
@@ -45,4 +48,3 @@ Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dij
 ----
 Credits: [TanZng](https://github.com/TanZng)
 
-Last Edited on: 31/08/2020

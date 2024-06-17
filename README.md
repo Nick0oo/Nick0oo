@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Nicolas</h1>
 
-<a target="_blank" href="https://www.stefanosst.gr"><img src="https://i.pinimg.com/564x/fa/97/13/fa9713cdfba2ac9eb7d1c6a82ec71ebb.jpg"/></a>
+<a target="_blank" href="https://www.stefanosst.gr"><img src="https://i.pinimg.com/originals/42/1c/8b/421c8b9bbaf3c663903a1ac53e7add13.gif"/></a>
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">

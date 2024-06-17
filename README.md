@@ -2,7 +2,7 @@
   <br>
   <samp>
    
-< br />
+
     Hola! Soy Nicko <b></b>.
     <br>Estudiante de Ingenieria de Sistemas Amante de el Desarrollo web<br>
 

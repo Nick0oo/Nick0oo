@@ -1,6 +1,6 @@
-<h1 align="center"> Hi there 👋, I'm Stefanos</h1>
+<h1 align="center"> Hi there 👋, I'm Nicolas</h1>
 
-<a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"/></a>
+<a target="_blank" href="https://www.stefanosst.gr"><img src="https://i.pinimg.com/564x/fa/97/13/fa9713cdfba2ac9eb7d1c6a82ec71ebb.jpg"/></a>
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">

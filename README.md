@@ -18,6 +18,7 @@
 Exploring, Investigating and Learning. 📝
 Software development student. 🌱 
 passionate about learning and building innovative solutions.🪄
+FOSS enthusiast 🪄
 Focused on understanding client needs and creating solutions that simplify their lives. 🔭
 19 years 📚
 </pre>

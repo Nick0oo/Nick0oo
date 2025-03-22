@@ -1,27 +1,44 @@
  Hi 👋 My name is Nicko
 ======================
 
- Dev in Progress 🧑🏻‍💻
------------------------
-<a target="_blank" href="https://www.stefanosst.gr"><img src="https://i.pinimg.com/originals/42/1c/8b/421c8b9bbaf3c663903a1ac53e7add13.gif"/></a>
+ <div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxyMDQ4azd1c3Zuc3doajZxNGxxN2x5amNxNGp0amRweHFubWJscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FTFI4bczpUYAp4xuSt/giphy.gif"  />
+</div>
 
+<div  align="center" class="flex items-center justify-center h-screen text-xl font-bold text-gray-800">
+  Developer & Entrepreneur in Progress 🧑🏻‍💻
+</div>
+
+
+-----------------------
+<div align="center">
+
+[![Imagen](https://us.v-cdn.net/5021068/uploads/editor/9g/ypfbhnrccj09.gif)](https://www.stefanosst.gr)
+
+</div>
 
 
 
 <p align="center">
   <a href="https://github.com/Bouaskaoun">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer%20|%20Code%20|%20Botting;JavaScript%20|%20Python%20|%20WordPress;&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer%20|%20Code%20|%20Botting;JavaScript%20|%20Python%20|%20WordPress;%20IA-Agents%20|%20N8N-Build%20|%20SaaS;&height=45&color=FF0000">
   </a>
 </p>
 
-<pre>
+
+
+
+<pre style="background-color: #ffdddd; padding: 10px; border-radius: 5px; font-family: monospace;">
 Exploring, Investigating and Learning. 📝
 Software development student. 🌱 
-passionate about learning and building innovative solutions.🪄
+Passionate about learning and building innovative solutions. 🪄
+SAAS and IA Agents 🤖
 FOSS enthusiast 🪄
 Focused on understanding client needs and creating solutions that simplify their lives. 🔭
 19 years 📚
 </pre>
+
+
 
 ### Skills
 
